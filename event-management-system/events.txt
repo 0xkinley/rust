@@ -1,0 +1,2 @@
+Web3Conf,Goa,2024-12-10,false
+Token2049,Singapore,2024-09-18,true
