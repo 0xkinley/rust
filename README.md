@@ -1,4 +1,3 @@
-```markdown
 # 🦀 Rust Projects Repository
 
 ## Description
@@ -42,4 +41,3 @@ The license information for each project may vary. Please refer to the individua
 ## Notes
 - Ensure you have Rust installed on your system before attempting to run any of the projects.
 - Each project may have its own dependencies and build instructions. Refer to the project-specific README files for more information.
-```
